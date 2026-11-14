@@ -106,8 +106,8 @@ class DataLoader:
 
         # Files missing - this shouldn't happen if pip install worked correctly
         # Only auto-download in interactive mode
-        if not sys.stdout.isatty():
-            return  # Skip in non-interactive environments (CI/CD)
+        #if not sys.stdout.isatty():
+        #    return  # Skip in non-interactive environments (CI/CD)
 
         print(f"\nMissing data files: {', '.join(missing)}")
         print("Downloading from GitHub releases...", end=" ", flush=True)
