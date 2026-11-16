@@ -30,7 +30,7 @@ It also generates matching **Client Hints (`Sec-CH-UA`)** headers automaticallyâ
 ## Installation
 
 ```bash
-pip install git+https://github.com/sarperavci/uaforge.git
+pip install git+https://github.com/static-codes/uaforge.git
 ```
 
 *Note:* The repo does not contain the market-share data files due to size constraints. They are automatically downloaded from the release assets while installing.
