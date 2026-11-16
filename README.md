@@ -1,5 +1,9 @@
 # UAForge
 
+This fork is maintained by [@Static-Codes](https://github.com/Static-Codes) as a dependency for [BAMM](https://github.com/Static-Codes/BrowserAutomationMaster). 
+
+This fork makes a small change in the handle of the ci/cd pipeline, all data is still served from UAForge's upstream [Release page](https://github.com/sarperavci/UAForge/releases).
+
 **Enterprise-grade, deterministic User Agent & Client Hint generator based on real-world browser statistics**
 
 [![Python Version](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
@@ -155,5 +159,7 @@ The table below shows the aggregated browser market share from the current datas
 *Last updated: 11-11-2026*
 
 ## License
+``MIT License
+Copyright (c) 2026 sarperavci``
 
-MIT License. Feel free to use this in your commercial scrapers, bots or testing suites.
+Feel free to use this in your commercial scrapers, bots or testing suites.
