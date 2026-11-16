@@ -2,7 +2,7 @@
 
 This fork is maintained by [@Static-Codes](https://github.com/Static-Codes) as a dependency for [BAMM](https://github.com/Static-Codes/BrowserAutomationMaster). 
 
-This fork makes a small change in the handle of the ci/cd pipeline, all data is still served from UAForge's upstream [Release page](https://github.com/sarperavci/UAForge/releases).
+This fork makes a [small change](https://github.com/static-codes/UAForge/commit/9db98f407b1daf21c33b60f1d5f0be4556a499af) in the handling of the ci/cd pipeline, all data is still served from UAForge's upstream [Release page](https://github.com/sarperavci/UAForge/releases).
 
 **Enterprise-grade, deterministic User Agent & Client Hint generator based on real-world browser statistics**
 
